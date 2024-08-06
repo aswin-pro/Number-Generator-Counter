@@ -13,7 +13,7 @@ Welcome to the Number Generator Counter project! This application generates a ra
 - CSS: For styling the web page.
 
 ## How to View
-You can explore the My Project by visiting 
+You can explore the My Project by visiting https://number-generator-counter.vercel.app/
 
 ## Contributing
 If you'd like to contribute or suggest improvements, please feel free to open an issue or create a pull request. Your feedback and contributions are highly valued!
